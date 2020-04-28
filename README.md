@@ -11,6 +11,10 @@ Steps to Execute:
 
    tensorboard --logdir=logs\\fits: To visualize the training process and graph
    ![tensorboard](https://user-images.githubusercontent.com/64470242/80485068-614ffe00-8976-11ea-919e-4bc1fe396e18.png)
+  
+ Results:
+ 
+   
 
    
 
