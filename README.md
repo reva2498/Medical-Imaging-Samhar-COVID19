@@ -1,2 +1,3 @@
-# Medical-Imaging-Samhar-COVID19
+# Medical-Imaging-SAMHAR-HACKATHON
 Detecting COVID-19 in CT Scan images
+
