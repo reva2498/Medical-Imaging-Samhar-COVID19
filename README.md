@@ -14,7 +14,7 @@ Steps to Execute:
   
  Results: compute the confusion matrix and and use it to derive the raw accuracy, sensitivity, and specificity
  
- ![result](https://user-images.githubusercontent.com/64470242/80486232-7594fa80-8978-11ea-9ccc-7b2849f7ab0c.png)
+
    
 
    
