@@ -10,5 +10,7 @@ Steps to Execute:
 2. Open the tensorboard using
 
    tensorboard --logdir=logs\\fits: To visualize the training process
+   ![tensorboard](https://user-images.githubusercontent.com/64470242/80484620-a45da180-8975-11ea-949f-64e61b61ba8c.png)
+
    
 
