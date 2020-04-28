@@ -12,7 +12,7 @@ Steps to Execute:
    tensorboard --logdir=logs\\fits: To visualize the training process and graph
    ![tensorboard](https://user-images.githubusercontent.com/64470242/80485068-614ffe00-8976-11ea-919e-4bc1fe396e18.png)
   
- Results:
+ Results: compute the confusion matrix and and use it to derive the raw accuracy, sensitivity, and specificity
  
  ![result](https://user-images.githubusercontent.com/64470242/80486232-7594fa80-8978-11ea-9ccc-7b2849f7ab0c.png)
    
