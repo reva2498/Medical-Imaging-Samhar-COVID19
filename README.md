@@ -14,9 +14,7 @@ Steps to Execute:
   
  Results:
  
- ![result](https://user-images.githubusercontent.com/64470242/80485986-f7d0ef00-8977-11ea-980d-cc86bce750e9.png)
-
- 
+ ![result](https://user-images.githubusercontent.com/64470242/80486232-7594fa80-8978-11ea-9ccc-7b2849f7ab0c.png)
    
 
    
